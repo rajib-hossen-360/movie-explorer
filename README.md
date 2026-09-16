@@ -19,3 +19,6 @@ A responsive React application where users can browse, search for movies/shows, 
 1. **Clone the repository**:
    ```bash
    git clone <https://github.com/rajib-hossen-360/movie-explorer.gitL>
+
+## 🌐 Live Demo
+- **Live URL**: https://movie-explorer-six-weld.vercel.app/
