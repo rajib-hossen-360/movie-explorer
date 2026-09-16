@@ -18,4 +18,4 @@ A responsive React application where users can browse, search for movies/shows, 
 
 1. **Clone the repository**:
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
+   git clone <https://github.com/rajib-hossen-360/movie-explorer.gitL>
