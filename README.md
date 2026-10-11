@@ -2,7 +2,7 @@
 
 A responsive React application where users can browse and search for TV shows, explore details, and view information in an interactive modal. Built using the TVMaze API.
 
-🚀 **Live Demo:** [View Live Site](https://movie-explorer.vercel.app)
+🚀 **Live Demo:** [View Live Site](https://movie-explorer-six-weld.vercel.app/)
 
 ---
 
